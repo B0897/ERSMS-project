@@ -1,0 +1,53 @@
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+  .topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+    .topnav a:hover {
+      background-color: cornflowerblue;
+      color: black;
+    }
+
+    .topnav a.active {
+      background-color: white;
+      color: black;
+    }
+
+.header-style {
+  margin-top: -5px;
+  margin-right: 0px;
+  margin-left: 0px;
+  width: 100%;
+  position: fixed;
+  background: white;
+  z-index: 10;
+}

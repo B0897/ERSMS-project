@@ -1,0 +1,382 @@
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\pjotr\Desktop\angProj\angularProject\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ERSMS\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ERSMS2\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Device.Portable.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Device.Portable.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+E:\Projekty\Web Server\sms2\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Device.Portable.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\projekt\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Device.Portable.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\projekt3\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\webApplication.exe
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\webApplication.deps.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\webApplication.runtimeconfig.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Device.Portable.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.AssemblyReference.cache
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\scopedcss\bundle\webApplication.styles.css
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.csproj.CopyComplete
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\refint\webApplication.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.pdb
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\webApplication.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\obj\Debug\net6.0\ref\webApplication.dll
+C:\Users\Maciej\Desktop\projekt5\ersms\webApplication\bin\Debug\net6.0\StarkbankEcdsa.dll

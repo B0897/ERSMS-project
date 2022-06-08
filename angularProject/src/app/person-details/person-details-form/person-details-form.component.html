@@ -1,0 +1,79 @@
+<div class="form-group col-md-12">
+  <div class="form-group col-md-2">
+    <a href="./login" class="btn btn-info btn-lg btn-block">Wyloguj</a>
+  </div>
+</div>
+
+<form #form="ngForm" (submit)="onSave(form)">
+  <input type="hidden" name="id"
+         [value]="service.account.id"/>
+
+  <div class="form-group">
+
+    <div class="form-group col-md-12" *ngIf="!isInst(form)">
+      <label>Imię</label>
+      <input class="form-control form-control-lg" placeholder="Imię" name="name"
+             #name="ngModel" [(ngModel)]="service.account.name" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12" *ngIf="!isInst(form)">
+      <label>Nazwisko</label>
+      <input class="form-control form-control-lg" placeholder="Nazwisko" name="surname"
+             #surname="ngModel" [(ngModel)]="service.account.surname" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12" *ngIf="isInst(form)">
+      <label>Nazwa organizacji</label>
+      <input class="form-control form-control-lg" placeholder="Nazwa organizacji" name="institutionName"
+             #institutionName="ngModel" [(ngModel)]="service.account.institutionName" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12">
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="isInstitution" name="isInstitution"
+        #isInstitution="ngModel" [(ngModel)]="service.account.isInstitution" [disabled]="isFormReadOnly()">
+        <label class="custom-control-label" for="isInstitution">Czy organizacja?</label>
+      </div>
+    </div>
+
+    <div class="form-group col-md-12">
+      <label>Adres e-mail</label>
+      <input class="form-control form-control-lg" placeholder="example@mail.com" name="email"
+             #email="ngModel" [(ngModel)]="service.account.email" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label>Telefon</label>
+      <input class="form-control form-control-lg" placeholder="nr telefonu" name="telephone"
+             #telephone="ngModel" [(ngModel)]="service.account.telephone" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label>Adres</label>
+      <input class="form-control form-control-lg" placeholder="ulica i numer domu" name="address"
+             #address="ngModel" [(ngModel)]="service.account.address" [readonly]="isFormReadOnly()">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label>Miasto</label>
+      <input class="form-control form-control-lg" placeholder="miasto" name="town"
+             #town="ngModel" [(ngModel)]="service.account.town" [readonly]="isFormReadOnly()">
+    </div>
+
+  </div>
+
+  <div class="form-row">
+    <div class="form-group col-md-2" *ngIf="isFormReadOnly()">
+      <button class="btn btn-info btn-lg btn-block" type="button" (click)="onEdit(form)">Edytuj</button>
+    </div>
+
+    <div class="form-group col-md-2" *ngIf="!isFormReadOnly()">
+      <button class="btn btn-info btn-lg btn-block" type="button" (click)="reset(form)">Anuluj</button>
+    </div>
+
+    <div class="form-group col-md-2">
+      <button class="btn btn-info btn-lg btn-block" type="submit">Zapisz</button>
+    </div>
+  </div>
+
+</form>

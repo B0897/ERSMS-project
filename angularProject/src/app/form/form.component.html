@@ -1,0 +1,11 @@
+<h3>Cart</h3>
+<form [formGroup]="formName" (ngSubmit)="onSubmit()">
+  <div *ngFor="let singleItem of inputItems">
+    <label class="font-style" for={{singleItem.name}}>
+      {{singleItem.name}}
+    </label>
+    <input class="input-style" id={{singleItem.name}} type={{singleItem.type}} formControlName={{singleItem.name}}>
+  </div>
+  <button class="button" type="submit">Purchase</button>
+</form>
+

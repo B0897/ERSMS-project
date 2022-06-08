@@ -1,0 +1,15 @@
+input, label {
+  display: block;
+}
+
+.font-style {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+}
+
+.input-style {
+    border-color: gray;
+    border-block-start-color: gray;
+    border-block-end-color: gray;
+    border-style: inset;
+}

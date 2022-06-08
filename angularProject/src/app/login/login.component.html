@@ -1,0 +1,34 @@
+<h1 style="padding-bottom:200px;"></h1>
+
+<form #form="ngForm" (submit)="onSave(form)">
+
+    <div class="form-group">
+
+        <div class="form-group col-md-4"  style="margin:0 auto;">
+          <label>Login</label>
+          <input class="form-control form-control-lg" placeholder="login" name="login"
+                 #login="ngModel" [(ngModel)]="service.formData.login"
+                 required [class.invalid]="login.invalid && login.touched">
+        </div>
+
+        <div class="form-group col-md-4"  style="margin:0 auto;">
+            <label>Hasło</label>
+            <input class="form-control form-control-lg" placeholder="hasło" name="password"
+                   #password="ngModel" type="password" [(ngModel)]="service.formData.password">
+          </div>
+
+          <div class="form-group col-md-4"  style="margin:0 auto;">
+            <label>Kod</label>
+            <input class="form-control form-control-lg" placeholder="------" name="code"
+                   #code="ngModel" type="code" [(ngModel)]="service.formData.code"
+                   required maxlength="6" minlength="6" [class.invalid]="code.invalid && code.touched">
+          </div>
+      </div>
+
+      <div class="form-group col-md-2" style="margin:0 auto;">
+        <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid">Zaloguj</button>
+        
+        <a href="./register" class="btn btn-info btn-lg btn-block">Zarejestruj</a>
+      </div>
+
+</form>

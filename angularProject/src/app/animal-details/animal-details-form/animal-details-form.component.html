@@ -1,0 +1,79 @@
+<form #form="ngForm" (submit)="onSave(form)">
+  <input type="hidden" name="id"
+         [value]="service.formData.ID" />
+
+  <div class="form-group col-md-12">
+
+    <div class="center">
+      <img width="60" height="60" src="/assets/images/defaultImg.jpg">
+    </div>
+
+    <div class="form-row">
+
+      <div class="form-group col-md-6">
+        <label>Cena</label>
+        <input class="form-control form-control-lg" placeholder="Cena" name="Price"
+               #price="ngModel" [(ngModel)]="service.formData.Price" [readonly]="isFormReadOnly()">
+      </div>
+
+      <div class="form-group col-md-6">
+        <label>Rodzaj zwierzęcia</label>
+        <input class="form-control form-control-lg" placeholder="Typ zwierzęcia" name="AnimalType"
+               #animalType="ngModel" [(ngModel)]="service.formData.AnimalType" [readonly]="isFormReadOnly()">
+      </div>
+
+    </div>
+
+    <div class="form-row">
+
+      <div class="form-group col-md-6">
+        <label>Rasa</label>
+        <input class="form-control form-control-lg" placeholder="Animal breed" name="Breed"
+               #breed="ngModel" [(ngModel)]="service.formData.Breed" [readonly]="isFormReadOnly()">
+      </div>
+
+      <div class="form-group col-md-6">
+        <label>Lata</label>
+        <input class="form-control form-control-lg" placeholder="Wiek" name="Age"
+               #dateOfBirth="ngModel" [(ngModel)]="service.formData.Age" [readonly]="isFormReadOnly()">
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+<!--   
+  <div class="form-group col-md-12">
+    <label>Opis</label>
+    <input class="form-control form-control-lg" placeholder="Description" name="description"
+           #description="ngModel" [(ngModel)]="service.formData.description" [readonly]="isFormReadOnly()">
+  </div>
+
+  <div class="form-group col-md-12">
+    <label>Jednostki</label>
+    <input class="form-control form-control-lg" placeholder="Units" name="units"
+           #units="ngModel" [(ngModel)]="service.formData.units" [readonly]="isFormReadOnly()">
+  </div> -->
+   
+
+  <div class="form-row">
+    <div class="form-group col-md-2" *ngIf="!isFormReadOnly()">
+      <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid">Zapisz</button>
+    </div>
+    
+    <div class="form-group col-md-2" *ngIf="isFormReadOnly()">
+      <button class="btn btn-info btn-lg btn-block" type="button" (click)="onEdit(form)">Edytuj</button>
+    </div>
+
+    <div class="form-group col-md-2" *ngIf="!isFormReadOnly()">
+      <button class="btn btn-info btn-lg btn-block" type="button" (click)="uploadPhoto(form)">Dodaj zdjęcia</button>
+    </div>
+  </div>
+
+  <app-file-upload *ngIf="doShowPhotoUpload()"></app-file-upload>
+
+
+
+</form>

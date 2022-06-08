@@ -1,0 +1,10 @@
+<header class="header-style box-shadow">
+  <div style="float:left;padding:5px 5px 5px 5px;">
+  </div>
+  <div class="topnav">
+    <img length="10%" width="10%" src="/assets/images/splash.png">
+    <a *ngFor="let item of navigationItems">
+      <a class={{item.class}} href={{item.link}}>{{item.name}}</a>
+    </a>
+  </div>
+</header>

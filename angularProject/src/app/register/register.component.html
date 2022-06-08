@@ -1,0 +1,120 @@
+<h1 style="padding-bottom:40px;"></h1>
+
+<div class="jumbotron py-2">
+  <h1 class="display-4 text-center">Rejestracja</h1>
+</div>
+
+<div class="form-group">
+  <form #form="ngForm" (ngSubmit)="onSave(form.value)" class="register_form" ngNativeValidate>
+    <!-- <label for = "ID">ID</label>
+    <input type = "text" name = "ID" id = "ID" ngModel required/> -->
+
+
+    <div class="form-group col-md-12">
+      <label for="Login">Login</label>
+      <input placeholder="Nazwa użytkownika" class="form-control form-control-lg" type="text" name="Login" id="Login" ngModel required />
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="HashedPassword">Hasło</label>
+      <input placeholder="Hasło" class="form-control form-control-lg" type="password" name="HashedPassword" id="HashedPassword" ngModel required />
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="RepeatPassword">Powtórz hasło</label>
+      <input placeholder="Powtórz hasło" class="form-control form-control-lg" type="password" name="RepeatPassword" id="RepeatPassword" required />
+    </div>
+
+    <div class="form-group col-md-12" *ngIf="!isDisplay()">
+      <label for="Name">Imię</label>
+      <input placeholder="Imię" class="form-control form-control-lg" type="text" name="Name" id="Name" ngModel />
+    </div>
+
+    <div class="form-group col-md-12" *ngIf="!isDisplay()">
+      <label for="Surname">Nazwisko</label>
+      <input placeholder="Nazwisko" class="form-control form-control-lg" type="text" name="Surname" id="Surname" ngModel />
+    </div>
+
+    <div class="form-group col-md-12" *ngIf="isDisplay()">
+      <label for="InstitutionName">Nazwa Instytucji</label>
+      <input placeholder="Nazwa instytucji" class="form-control form-control-lg" type="text" name="InstitutionName" id="InstitutionName" ngModel />
+    </div>
+
+    <div class="form-group col-md-12">
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="isInstitution" name="isInstitution" value="false" ngModel>
+        <label class="custom-control-label" for="isInstitution">Czy organizacja?</label>
+      </div>
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="Telephone">Telefon</label>
+      <input placeholder="Telefon" class="form-control form-control-lg" type="text" name="Telephone" id="Telephone" ngModel />
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="Email">Email</label>
+      <input placeholder="Email" class="form-control form-control-lg" type="text" name="Email" id="Email" ngModel required />
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="Town">Miasto</label>
+      <input placeholder="Miasto Zamieszkania" class="form-control form-control-lg" type="text" name="Town" id="Town" ngModel required />
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="Address">Adres</label>
+      <input placeholder="Adres" class="form-control form-control-lg" type="text" name="Address" id="Address" ngModel required />
+    </div>
+
+    <!-- <div class="form-group col-md-12">
+        <label for = "coord">coord</label>
+        <input placeholder="" class="form-control form-control-lg" type = "text" name = "coord" id = "coord" ngModel required/>
+    </div> -->
+    <!-- <label for = "Secret">Secret</label>
+    <input type = "text" name = "Secret" id = "Secret" ngModel required/> -->
+    <!-- <div class="form-group col-md-12">
+        <label for = "">Instytucja</label>
+        <input  class="form-control form-control-lg" type = "checkbox" name = "IsInstitution" id = "isInstitution" value = "true" ngModel/>
+    </div> -->
+    <!-- <div class="form-group col-md-12">
+        <label for = "Paypal">Paypal</label>
+        <input  placeholder="Numer paypal" class="form-control form-control-lg" type = "text" name = "Paypal" id = "Paypal" ngModel/>
+    </div> -->
+
+    <div class="form-group col-md-12">
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" value="false" id="policyAgreement" name="policyAgreement" ngModel required>
+        <label class="custom-control-label" for="policyAgreement">Akceptuję</label>
+        <div>
+          <a>Klikając “Akceptuję” udzielasz zgody na przetwarzanie Twoich danych osobowych dotyczących Twojej aktywności
+            w internecie. Zgoda jest dobrowolna. Szczegółowe informacje dotyczące plików cookie
+            oraz o przetwarzaniu Twoich danych znajdziesz w naszej polityce prywatności. Regulamin polityki prywatności dostępny </a>
+            <a href="./privacy-policy">tutaj.</a>
+        </div>
+      </div>
+    </div>
+
+    <a href="./listing">      
+      <input class="btn btn-info btn-lg btn-block" type="submit" value="Zarejestruj" />
+    </a>
+
+  </form>
+</div>
+
+
+
+<div class="form-group" *ngIf="isRegistered()">
+  <form #form="ngForm" (ngSubmit)="onSave2(form.value)" class="register_form" ngNativeValidate>
+    <img src={{param}} alt="image" />
+    <div class="form-group col-md-12">
+      <label for="Kod">Kod</label>
+      <input placeholder="Kod" class="form-control form-control-lg" type="text" name="Kod" id="Kod" ngModel required />
+      <a href="./login">
+        <input class="btn btn-info btn-lg btn-block" type="submit" value="Wyślij"/>
+      </a>
+    </div>
+  </form>
+</div>
+
+

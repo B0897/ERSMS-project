@@ -1,0 +1,108 @@
+<app-nav-menu style="padding:40px;"></app-nav-menu>
+<h1 style="padding-bottom:100px;"></h1>
+
+<div class="jumbotron py-2">
+  <h1 class="display-4 text-center">Wyszukaj zwierzaka</h1>
+</div>
+
+<div style="margin-left:2em;">
+  <h4 style="color: dimgray;">Wyniki wyszukiwania {{wrappersLength}}</h4>
+
+  Sortuj:
+  <div class="grid-style" *ngFor="let singleItem of sortItems">
+    <button class="col button-border" style="min-height:40px;" (click)="sortCollection(singleItem)">
+      {{singleItem}}
+    </button>
+  </div>
+  <span style="margin-right:2em;"></span>
+  Filtruj:
+  <div class="grid-style" *ngFor="let singleFiltr of filters">
+    <button class="col button-border" style="min-height:40px;" (click)="openFilter(singleFiltr.id)">
+      {{singleFiltr.name}}
+    </button>
+  </div>
+
+  <div *ngIf="currentFilter != undefined" class="grid-style">
+    <form (ngSubmit)="onSubmit($event)">
+      <div class="grid-style">
+        <p *ngIf="currentFilter.labelFrom">{{currentFilter.textFrom}}</p>
+        <input [(ngModel)]="fromValue" *ngIf="currentFilter.labelFrom" type={{currentFilter.type}} maxlength={{currentFilter.maxLength}}
+               min={{currentFilter.min}} max={{currentFilter.max}} required />
+      </div>
+      <div class="grid-style">
+        <p *ngIf="currentFilter.labelTo">{{currentFilter.textTo}}</p>
+        <input [(ngModel)]="toValue" *ngIf="currentFilter.labelTo" type={{currentFilter.type}} maxlength={{currentFilter.maxLength}}
+               min={{currentFilter.min}} max={{currentFilter.max}} required />
+      </div>
+
+      <button type="submit" class="col button button1" style="min-height:40px;">
+        Zatwierdź zmiany
+      </button>
+    </form>
+  </div>
+
+
+  <div *ngFor="let singleCart of carts">
+    <app-animal-card>
+      <div animal-header style="height: 10%">
+
+        <div *ngIf="singleCart.isFollow" style="cursor: pointer;" (click)="handleFollow(singleCart.animal.id)">
+          Obserwujesz
+          <svg id="bookmark_added_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <rect id="Rectangle_2558" data-name="Rectangle 2558" width="24" height="24" fill="none" />
+            <path id="Path_3669" data-name="Path 3669" d="M17,11v6.97l-5-2.14L7,17.97V5h6V3H7A2.006,2.006,0,0,0,5,5V21l7-3,7,3V11Zm.83-2L15,6.17l1.41-1.41,1.41,1.41,3.54-3.54,1.41,1.41Z" fill="#9ed353" />
+          </svg>
+        </div>
+
+        <div *ngIf="!singleCart.isFollow" style="cursor: pointer;" (click)="handleFollow(singleCart.animal.id)">
+          Obserwuj
+          <svg id="bookmark_add_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <rect id="Rectangle_2557" data-name="Rectangle 2557" width="24" height="24" fill="none" />
+            <path id="Path_3668" data-name="Path 3668" d="M17,11v6.97l-5-2.14L7,17.97V5h6V3H7A2.006,2.006,0,0,0,5,5V21l7-3,7,3V11Zm4-4H19V9H17V7H15V5h2V3h2V5h2Z" fill="#009bdf" />
+          </svg>
+        </div>
+
+        <div class="item-detail" style="float:left;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+            <g id="pinezka" transform="translate(0 -1)">
+              <g id="Path_1368" data-name="Path 1368" transform="translate(-4.5 -0.5)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M17.5,8.045C17.5,13.136,11,17.5,11,17.5S4.5,13.136,4.5,8.045a6.5,6.5,0,1,1,13,0Z" stroke="none" />
+                <path d="M 11 2.5 C 7.967289924621582 2.5 5.5 4.98768138885498 5.5 8.045451164245605 C 5.5 11.71432685852051 9.501137733459473 15.1165132522583 10.99997997283936 16.26204872131348 C 12.49943828582764 15.11602210998535 16.5 11.7140531539917 16.5 8.045451164245605 C 16.5 4.98768138885498 14.03271007537842 2.5 11 2.5 M 11 1.5 C 14.5898494720459 1.5 17.5 4.430500984191895 17.5 8.045451164245605 C 17.5 13.13636112213135 11 17.5 11 17.5 C 11 17.5 4.5 13.13636112213135 4.5 8.045451164245605 C 4.5 4.430500984191895 7.410149574279785 1.5 11 1.5 Z" stroke="none" fill="#009bdf" />
+              </g>
+              <g id="Path_1378" data-name="Path 1378" transform="translate(-10.168 -5.799)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M20.138,13.819A3.319,3.319,0,1,1,16.819,10.5a3.319,3.319,0,0,1,3.319,3.319Z" stroke="none" />
+                <path d="M 16.819091796875 11.50000190734863 C 15.54034233093262 11.50000190734863 14.50000190734863 12.5403413772583 14.50000190734863 13.819091796875 C 14.50000190734863 15.0978422164917 15.54034233093262 16.13818168640137 16.819091796875 16.13818168640137 C 18.09784317016602 16.13818168640137 19.13818168640137 15.0978422164917 19.13818168640137 13.819091796875 C 19.13818168640137 12.5403413772583 18.09784317016602 11.50000190734863 16.819091796875 11.50000190734863 M 16.819091796875 10.50000190734863 C 18.65217208862305 10.50000190734863 20.13818168640137 11.98601150512695 20.13818168640137 13.819091796875 C 20.13818168640137 15.65217208862305 18.65217208862305 17.13818168640137 16.819091796875 17.13818168640137 C 14.98600196838379 17.13818168640137 13.50000190734863 15.65217208862305 13.50000190734863 13.819091796875 C 13.50000190734863 11.98601150512695 14.98600196838379 10.50000190734863 16.819091796875 10.50000190734863 Z" stroke="none" fill="#009bdf" />
+              </g>
+            </g>
+          </svg>
+          {{singleCart.animal.coors}}
+        </div>
+        <div style="float: right; font-weight: bold;">
+          {{singleCart.animal.price}}zł
+        </div>
+      </div>
+      <div animal-body style="height: 80%">
+        <div class="center">
+          <img width="120" height="120" src="/assets/images/defaultImg.jpg">
+        </div>
+        <div>
+          <hr />
+          <p>{{singleCart.animal.description}}</p>
+          <hr />
+        </div>
+      </div>
+
+      <div class="center" animal-footer style="height: 30%">
+
+        <a href="https://www.sandbox.paypal.com/donate/?hosted_button_id=2QUKPQ698L9MU">
+          <button class="button button1">Wesprzyj psiaka</button>
+        </a>
+        <button class="button button2">Adoptuj psiaka</button>
+        <button class="button button2" [routerLink]="['/animal', singleCart.id]"
+                [queryParams]="{id:singleCart.id}" routerActive="active">
+          Więcej informacji
+        </button>
+      </div>
+    </app-animal-card>
+  </div>
+</div>

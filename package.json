@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@rxjs/rx": "^4.1.0",
+    "bootstrap": "^5.2.0-beta1",
+    "ngx-toastr": "^14.3.0",
+    "rxjs": "^6.6.7",
+    "rxjs-compat": "^6.6.7"
+  }
+}
